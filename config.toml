@@ -1,0 +1,17 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'ru-ru'
+title = 'LexChen Community'
+theme = 'ananke'
+copyright = 'Copyright (C) LexChen Community'
+
+
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+[[menu.main]]
+  name = 'Blog'
+  pageRef = '/blog'
+  weight = 20
