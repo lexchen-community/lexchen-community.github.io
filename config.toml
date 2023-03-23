@@ -1,17 +1,61 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'ru-ru'
-title = 'LexChen Community'
 theme = 'ananke'
-copyright = 'Copyright (C) LexChen Community'
 
-
-
-[menu]
-[[menu.main]]
-  name = 'Home'
-  pageRef = '/'
-  weight = 10
-[[menu.main]]
-  name = 'Blog'
-  pageRef = '/blog'
-  weight = 20
+defaultContentLanguage = 'ru'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    title = 'LexChen Community'
+    languageName = 'English'
+    weight = 2
+    [languages.en.menu]
+[[languages.en.menu.main]]
+      name = 'Home'
+      pageRef = '/'
+      weight = 10
+[[languages.en.menu.main]]
+      name = 'Projects'
+      pageRef = '/projects'
+      weight = 20
+[[languages.en.menu.main]]
+      name = 'About'
+      pageRef = '/about'
+      weight = 30
+  [languages.ru]
+    title = 'Сообщество LexChen'
+    languageName = 'Русский'
+    weight = 2
+    [languages.ru.menu]
+[[languages.ru.menu.main]]
+      name = 'Главная'
+      pageRef = '/'
+      weight = 10
+[[languages.ru.menu.main]]
+      name = 'Проекты'
+      pageRef = '/projects'
+      weight = 20
+[[languages.ru.menu.main]]
+      name = 'Про нас'
+      pageRef = '/about'
+      weight = 30
+  [languages.ua]
+    title = 'Спільнота LexChen'
+    languageName = 'Українська'
+    weight = 2
+    [languages.ua.menu]
+[[languages.ua.menu.main]]
+      name = 'Головна'
+      pageRef = '/'
+      weight = 10
+[[languages.ua.menu.main]]
+      name = 'Проєкти'
+      pageRef = '/projects'
+      weight = 20
+[[languages.ua.menu.main]]
+      name = 'Про нас'
+      pageRef = '/about'
+      weight = 30
+      
+[params]
+  commentoEnable = true
