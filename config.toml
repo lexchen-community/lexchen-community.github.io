@@ -1,6 +1,6 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'ru-ru'
-theme = 'ananke'
+theme = 'den'
 
 defaultContentLanguage = 'ru'
 defaultContentLanguageInSubdir = true
