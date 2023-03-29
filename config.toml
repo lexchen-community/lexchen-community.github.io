@@ -4,11 +4,9 @@ theme = 'hugo-theme-itheme'
 
 title = "LexChen Community"
 
-defaultContentLanguage = 'ru'
-defaultContentLanguageInSubdir = true
       
 [params]
-  defaultCover = 'https://example.com/cover.jpg' # default cover image for post not setting cover
+  defaultCover = 'https://raw.githubusercontent.com/lexchen-community/resources/main/bg.png' # default cover image for post not setting cover
   #email = 'floyd.li@outlook.com' # the email address display in the footer
   [[params.socialMedia]] # custom social links display in the footer, you can add one or more
     name = 'Telegram'
