@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-03-22T15:33:33+02:00
-draft: false
+draft: true
 featured_image: '/assets.png'
 ---
 

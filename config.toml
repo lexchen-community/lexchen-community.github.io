@@ -1,5 +1,5 @@
 baseURL = 'http://localhost:1313/'
-languageCode = 'ru-ru'
+languageCode = 'en-us'
 theme = 'hugo-theme-itheme'
 
 title = "LexChen Community"
@@ -11,3 +11,7 @@ title = "LexChen Community"
   [[params.socialMedia]] # custom social links display in the footer, you can add one or more
     name = 'Telegram'
     url = 'https://t.me/LexChen_Chat'
+
+  [[params.socialMedia]]
+  	name = "YouTube"
+  	url = 'https://www.youtube.com/@LexChenL'
