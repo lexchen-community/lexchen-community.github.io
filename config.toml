@@ -1,6 +1,6 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-theme = 'hugo-theme-itheme'
+theme = 'lexchen-theme'
 
 title = "LexChen Community"
 
