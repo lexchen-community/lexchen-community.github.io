@@ -4,6 +4,8 @@ date: 2023-03-21T11:31:46+02:00
 draft: false
 cover: 'https://raw.githubusercontent.com/lexchen-community/resources/main/Untitled_logo_6_free-file.jpg'
 theme: "dark"
+description: 'aurumOS Project official page'
+author: 'Andrew LLCoder'
 ---
 
 
