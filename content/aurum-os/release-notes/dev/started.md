@@ -7,7 +7,7 @@ author: "Andrew LLCoder"
 theme: "dark"
 ---
 
-
+[cover](https://raw.githubusercontent.com/lexchen-community/resources/main/screenzy-1680372230387.png)
 
 ## **Hello dear friends!** 
 My name is Andrew! I am the project manager of **aurumOS**. And I want to announce that the development of aurumOS is **officially launched**! 
