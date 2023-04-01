@@ -2,6 +2,9 @@
 title: "aurumOS dev started!"
 date: 2023-03-21T11:31:46+02:00
 draft: false
+cover: "https://raw.githubusercontent.com/lexchen-community/resources/main/screenzy-1680372230387.png"
+author: "Andrew LLCoder"
+theme: "dark"
 ---
 
 
