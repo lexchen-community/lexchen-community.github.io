@@ -5,6 +5,7 @@ draft: false
 cover: "https://raw.githubusercontent.com/lexchen-community/resources/main/screenzy-1680372230387.png"
 author: "Andrew LLCoder"
 theme: "dark"
+tags: ["aurumOS"]
 ---
 
 ![cover|inline](https://raw.githubusercontent.com/lexchen-community/resources/main/screenzy-1680372230387.png)
