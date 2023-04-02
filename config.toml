@@ -1,6 +1,6 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-theme = 'lexchen-theme'
+theme = 'github.com/andrew-llcoder/hugo-theme-lexchen'
 
 title = "LexChen Community"
 
@@ -13,5 +13,5 @@ title = "LexChen Community"
     url = 'https://t.me/LexChen_Chat'
 
   [[params.socialMedia]]
-  	name = "YouTube"
-  	url = 'https://www.youtube.com/@LexChenL'
+    name = "YouTube"
+    url = 'https://www.youtube.com/@LexChenL'
