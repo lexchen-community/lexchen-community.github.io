@@ -13,3 +13,6 @@
 [submodule "themes/lexchen-theme"]
 	path = themes/lexchen-theme
 	url = https://github.com/andrew-llcoder/hugo-theme-lexchen
+[submodule "themes/lexchen"]
+	path = themes/lexchen
+	url = https://github.com/andrew-llcoder/hugo-theme-lexchen
