@@ -3,7 +3,7 @@ title: "aurumOS"
 date: 2023-03-21T11:31:46+02:00
 draft: false
 tags: ["aurumOS", "Development"]
-cover: 'https://raw.githubusercontent.com/lexchen-community/resources/main/Untitled_logo_6_free-file.jpg'
+cover: 'https://raw.githubusercontent.com/lexchen-community/resources/main/photo_2023-04-09_16-50-22-removebg-preview.png'
 theme: "dark"
 description: 'aurumOS Project official page'
 author: 'Andrew LLCoder'
@@ -11,8 +11,8 @@ author: 'Andrew LLCoder'
 
 
 **Welcome to aurumOS Project official page!**
+![](https://raw.githubusercontent.com/lexchen-community/resources/main/photo_2023-04-09_16-50-22-removebg-preview.png)
 ---
-
 
 **aurumOS** is an operating system project based on the Linux kernel. 
 The main idea of the project is to create a fast, convenient and popular operating system for personal computers.
