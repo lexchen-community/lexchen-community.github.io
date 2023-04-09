@@ -11,7 +11,7 @@ author: 'Andrew LLCoder'
 
 
 **Welcome to aurumOS Project official page!**
-![](https://raw.githubusercontent.com/lexchen-community/resources/main/photo_2023-04-09_16-50-22-removebg-preview.png)
+![logo|inline](https://raw.githubusercontent.com/lexchen-community/resources/main/photo_2023-04-09_16-50-22-removebg-preview.png)
 ---
 
 **aurumOS** is an operating system project based on the Linux kernel. 
