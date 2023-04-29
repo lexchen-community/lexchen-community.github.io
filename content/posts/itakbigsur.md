@@ -2,6 +2,7 @@
 title: "И так, Big Sur"
 date: 2023-04-29T08:17:46+02:00
 draft: false
+tags: ['macOS','Big Sur']
 cover: 'https://github.com/lexchen-community/resources/raw/main/Знімок%20екрана%202023-04-28%20о%2021.12.12.png'
 ---
 
