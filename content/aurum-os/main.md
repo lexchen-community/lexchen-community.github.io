@@ -10,9 +10,7 @@ author: 'Andrew LLCoder'
 ---
 
 
-**Welcome to aurumOS Project official page!**
-![logo|inline](https://raw.githubusercontent.com/lexchen-community/resources/main/photo_2023-04-09_16-50-22-removebg-preview.png)
----
+# **Welcome to aurumOS Project official page!**
 
 **aurumOS** is an operating system project based on the Linux kernel. 
 The main idea of the project is to create a fast, convenient and popular operating system for personal computers.
@@ -29,3 +27,4 @@ All in all, **aurumOS** is a unique project that aims to create the best operati
 It successfully combines simplicity and intuitiveness with powerful features and high performance, making it an excellent choice for a wide range of users.
 
 
+[Download](download)
