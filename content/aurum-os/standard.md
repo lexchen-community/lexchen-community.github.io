@@ -1,7 +1,7 @@
 ---
 title: "Download aurumOS Standard"
 date: 2023-05-17T11:31:46+02:00
-draft: true
+draft: false
 tags: ["aurumOS", "Download", "Standard"]
 theme: "dark"
 description: 'aurumOS Download page'
