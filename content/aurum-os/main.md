@@ -27,4 +27,4 @@ All in all, **aurumOS** is a unique project that aims to create the best operati
 It successfully combines simplicity and intuitiveness with powerful features and high performance, making it an excellent choice for a wide range of users.
 
 
-[Download](download)
+[Download](/aurum-os/download)
