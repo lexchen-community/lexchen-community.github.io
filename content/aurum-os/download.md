@@ -10,5 +10,5 @@ author: 'lxchn1v1'
 
 # Download latest aurumOS Release!
 
-[Standard (alpha)](/standard)
+[Standard (alpha)](/aurum-os/standard)
 [Lite (Not released)]()
